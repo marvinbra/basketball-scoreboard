@@ -2,6 +2,7 @@
 body {
     margin-top: 12%;
     background: grey;
+    font-family: 'Kanit', sans-serif;
 }
 
 .container {
@@ -22,11 +23,11 @@ h1 {
 }
 
 #home{
-    margin-left: 34px;
+    margin-left: 42px;
 }
 
 #guest {
-    margin-left: 29px;
+    margin-left: 36px;
 }
 
 #left {
